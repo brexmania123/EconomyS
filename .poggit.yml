@@ -1,0 +1,29 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/brexmania123/EconomyS
+branches:
+- master
+projects:
+  EconomyAPI:
+    path: EconomyAPI/
+  EconomyAirport:
+    path: EconomyAirport/
+  EconomyAuction:
+    path: EconomyAuction/
+  EconomyCasino:
+    path: EconomyCasino/
+  EconomyJob:
+    path: EconomyJob/
+  EconomyLand:
+    path: EconomyLand/
+  EconomyPShop:
+    path: EconomyPShop/
+  EconomyProperty:
+    path: EconomyProperty/
+  EconomySell:
+    path: EconomySell/
+  EconomyShop:
+    path: EconomyShop/
+  EconomyTax:
+    path: EconomyTax/
+  EconomyUsury:
+    path: EconomyUsury/
+...
